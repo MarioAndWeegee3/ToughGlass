@@ -1,0 +1,15 @@
+{
+  "id": "toughglass",
+  "version": "${version}",
+  "schemaVersion": 1,
+  "name": "Tough Glass",
+  "description": "Adds glass that is blast-proof and cannot be moved by pistons",
+  "entrypoints": {
+    "main": [
+      "marioandweegee3.toughglass.ToughGlass"
+    ],
+    "client": [
+      "marioandweegee3.toughglass.client.ToughGlassClient"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "toughglass:block/tough_glass"
+  }
+}

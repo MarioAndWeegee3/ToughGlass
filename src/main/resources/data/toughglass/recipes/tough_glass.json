@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " o ",
+    "ggg",
+    " o "
+  ],
+  "key": {
+    "o": {
+      "item": "obsidian"
+    },
+    "g": {
+      "tag": "c:glasses"
+    }
+  },
+  "result": {
+    "item": "toughglass:tough_glass",
+    "count": 3
+  }
+}
