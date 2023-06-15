@@ -15,5 +15,6 @@ public final class ToughGlassClient implements ClientModInitializer {
         var map = BlockRenderLayerMap.INSTANCE;
 
         map.putBlock(ToughGlass.toughGlassBlock, RenderLayer.getTranslucent());
+        map.putBlock(ToughGlass.toughGlassPaneBlock, RenderLayer.getTranslucent());
     }
 }
