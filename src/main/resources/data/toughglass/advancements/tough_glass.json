@@ -17,7 +17,9 @@
       "conditions": {
         "items": [
           {
-            "item": "toughglass:tough_glass"
+            "items": [
+              "toughglass:tough_glass"
+            ]
           }
         ]
       }

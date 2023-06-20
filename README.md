@@ -10,6 +10,10 @@ Adds a new block, Tough Glass which has the following differences from regular g
 
 ## Changelog
 
+### Version 3.0.1
+
+* Fixed the "Tough Glass" advancement triggering on any change in the player's inventory
+
 ### Version 3.0.0
 
 * Ported to 1.20.1
